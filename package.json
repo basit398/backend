@@ -1,0 +1,16 @@
+{
+  "name": "backend-course",
+  "version": "1.0.0",
+  "description": "backend course",
+  "keywords": [
+    "javacript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Abdul Basit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
